@@ -32,13 +32,13 @@ body {
 
 .App {
   height: 100vh;
-  margin: 0;
   font-family: Minecraftia;
   text-align: center;
   display: flex;
 }
 
 .side-menu {
+  position: relative;
   width: 250px;
   padding: 20px;
   background-color: #2c3e50;
@@ -84,7 +84,7 @@ body {
 }
 
 .side-menu .tier-item.active {
-  background-color: #16a085;
+  background-color: rgba(35, 140, 120, 0.86);
 }
 
 .side-menu .tier-icon {
@@ -135,6 +135,7 @@ h1 {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 20px;
+  padding-right: 10vw;
 }
 
 .achievement-item {
@@ -159,21 +160,37 @@ h1 {
 .achievement-name {
   font-size: 1.2rem;
   font-weight: bold;
+  color: gold;
+  text-shadow: 2px 2px 1px black;
 }
 
 .achievement-description {
   font-size: 0.9rem;
-  color: #555;
+  color: white;
   margin: 10px 0;
+  text-shadow: 2px 2px 1px black;
 }
 
 .additional-icons {
   font-size: 1.5rem;
   margin: 10px 0;
+  display: flex;
 }
 
 .additional-icon {
   margin: 0 5px;
+  max-width: 2.5vw;
+}
+
+.quantity-label {
+  position: relative;
+  font-size: 0.8vw;
+  color: white;
+  margin-top: auto;
+  margin-bottom: 0;
+  margin-left: -20px;
+
+  text-shadow: black 2px 2px 2px;
 }
 
 .tier-label {
@@ -229,3 +246,39 @@ h1 {
   background-color: rgba(255, 255, 255, 0.05);
   border-radius: 10px;
 }
+
+.achievement-0 {
+  background: url("./assets/img.png");
+  background-size: cover;
+  border-color: #888;
+}
+
+.achievement-1 {
+  background-color: #FFEB3B;
+  border-color: #FBC02D;
+}
+
+.achievement-2 {
+  background-color: #4CAF50;
+  border-color: #388E3C;
+}
+
+.achievement-3 {
+  background-color:  #2196F3;
+  border-color:  #1976D2 ;
+}
+
+.achievement-coordenadas {
+  background-color:  #9C27B0;
+  border-color:  #7B1FA2
+}
+
+
+
+.additional-block-div {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  color: black;
+}
+

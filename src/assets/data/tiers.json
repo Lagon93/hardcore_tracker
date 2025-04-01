@@ -1,0 +1,34 @@
+{
+  "tiers": [
+    {
+      "name": "Nivel Comun",
+      "value": 0,
+      "icon": "https://mcicons.ccleaf.com/assets/10.%20Items/1.%20Swords/Wooden_Sword.png"
+    },
+    {
+      "name": "Nivel Raro",
+      "value": 1,
+      "icon": "https://mcicons.ccleaf.com/assets/10.%20Items/1.%20Swords/Stone_Sword.png"
+    },
+    {
+      "name": "Nivel Epico",
+      "value": 2,
+      "icon": "https://mcicons.ccleaf.com/thumbnails/10.%20Items/1.%20Swords/Iron_Sword.png"
+    },
+    {
+      "name": "Nivel Legendario",
+      "value": 3,
+      "icon": "https://mcicons.ccleaf.com/assets/10.%20Items/1.%20Swords/Diamond_Sword.png"
+    },
+    {
+      "name": "Nivel Mítico",
+      "value": 4,
+      "icon": "https://mcicons.ccleaf.com/assets/10.%20Items/1.%20Swords/Netherite_Sword.png"
+    },
+    {
+      "name": "Coordenadas",
+      "value": "coordenadas",
+      "icon": "https://mcicons.ccleaf.com/assets/10.%20Items/18.%20Consumables/Filled_Map.png"
+    }
+  ]
+}

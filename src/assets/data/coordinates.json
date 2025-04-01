@@ -1,0 +1,29 @@
+{
+  "coordinates": [
+    {
+      "name": "Base Principal",
+      "iconUrl": "https://mcicons.ccleaf.com/assets/17.$%20Structures/10.%20Villages/Plains_Small_House_3.png",
+      "description": "X: 300, Y: ~, Z: 1900"
+    },
+    {
+      "name": "Mina Principal",
+      "iconUrl": "https://mcicons.ccleaf.com/assets/10.%20Items/3.%20Tools/Iron_Pickaxe.png",
+      "description": "X: -50, Y: 11, Z: -100"
+    },
+    {
+      "name": "Portal Nether",
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/08.%20Obsidian/Obsidian.png",
+      "description": "X: 20, Y: 70, Z: 150"
+    },
+    {
+      "name": "Fortaleza del Nether",
+      "iconUrl": "https://mcicons.ccleaf.com/assets/10.%20Items/18.%20Consumables/Netherrack.png",
+      "description": "X: -200, Y: 65, Z: 300"
+    },
+    {
+      "name": "Portal al End",
+      "iconUrl": "https://mcicons.ccleaf.com/assets/10.%20Items/18.%20Consumables/Eye_of_Ender.png",
+      "description": "X: 500, Y: 40, Z: -250"
+    }
+  ]
+}

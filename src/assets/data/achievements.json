@@ -1,0 +1,171 @@
+{
+  "achievements": [
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+            "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+            "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 10
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Lo minimo",
+      "tier": 0,
+      "iconUrl": "https://mcicons.ccleaf.com/assets/20.%20Blocks/07.%20Logs/Oak_Log.png",
+      "description": "Si no logras hacer ni esto, simplemente abandona",
+      "completed": false,
+      "additionalIcons": [
+        {
+          "icon": "https://mcicons.ccleaf.com/thumbnails/20.%20Blocks/07.%20Logs/Oak_Log.png",
+          "quantity": 121
+        },
+        {
+          "icon": "https://mcicons.ccleaf.com/assets/20.%20Blocks/18.%20Decoration/Cobblestone.png",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "name": "Cazador experto",
+      "tier": 1,
+      "iconUrl": "https://mcicons.ccleaf.com/icons/achievement2.png",
+      "description": "Caza y elimina 10 mobs diferentes.",
+      "completed": false,
+      "additionalIcons": [
+        "⚔️",
+        "💀"
+      ]
+    },
+    {
+      "name": "Maestro constructor",
+      "tier": 2,
+      "iconUrl": "https://mcicons.ccleaf.com/icons/achievement3.png",
+      "description": "Construye una estructura gigante en el mundo.",
+      "completed": false,
+      "additionalIcons": [
+        "🏗️",
+        "🧱"
+      ]
+    }
+  ]
+}
